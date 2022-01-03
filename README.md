@@ -44,4 +44,7 @@ function email_verify(access) {
   })
 }
 
-email_verify("YOUR_TOKEN_HERE:YOUR_PASSWORD_HERE")```
+email_verify("YOUR_TOKEN_HERE:YOUR_PASSWORD_HERE")
+```
+
+Made by Eric48906™
