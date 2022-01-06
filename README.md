@@ -3,10 +3,6 @@ Quickly verify emails on your tokens for completely free using mail.tm's api.
 
 ```js
 
-/* ❗ No, this code doesn't verify the email for you. It only creates an email, 
-changes the discord token's email to it and then prints a JSON of the emails that email has received. 
-If you want to make it automatic then you'll have to do it yourself since I will be focusing on my token generator. 
-I might come back later and update this code to make it automatic, please star the repo! */
 
 const crypto = require("crypto");
 const axios = require("axios")
